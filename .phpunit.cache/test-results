@@ -1,0 +1,1 @@
+{"version":1,"defects":{"PrimeFactorsTest::test_it_generates_prime_factors":5,"PrimeFactorsTest::it_generates_prime_factors":5},"times":{"PrimeFactorsTest::test_it_generates_prime_factors":0.004,"PrimeFactorsTest::it_generates_prime_factors":0.004}}
